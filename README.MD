@@ -8,6 +8,8 @@ By doing so, I cleaned up the code. For example, I replaced most of the div elem
 
 I also added alt attributes for the images and icons. I changed all the headings to an h1 heading, along with their matching selectors, as each heading did not directly follow each other. I also changed the title of the web page to a more informative title.
 
+I also rearranged the CSS selectors to semantic order, along with adding comments into CSS.
+
 I would have a more unique title, however I learned that we should have a more unique title after making my repo, and changing the name would not be good.
 
 ![](./assets/images/Screenshot(55).png)
